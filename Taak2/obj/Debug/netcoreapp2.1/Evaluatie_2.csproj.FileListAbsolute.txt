@@ -1,0 +1,74 @@
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.deps.json
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.runtimeconfig.json
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.runtimeconfig.dev.json
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.dll
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.pdb
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.Views.dll
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.Views.pdb
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.Business.dll
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.DataAccess.dll
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.Model.dll
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.Business.pdb
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.Model.pdb
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.DataAccess.pdb
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.csprojAssemblyReference.cache
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.csproj.CoreCompileInputs.cache
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.RazorAssemblyInfo.cache
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.RazorAssemblyInfo.cs
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.AssemblyInfoInputs.cache
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.AssemblyInfo.cs
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.TagHelpers.input.cache
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.TagHelpers.output.cache
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.RazorCoreGenerate.cache
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Razor\Views\Bureaus\Index.g.cshtml.cs
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Razor\Views\Bureaus\Toevoegen.g.cshtml.cs
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Razor\Views\Bureaus\Wijzigen.g.cshtml.cs
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Razor\Views\Bureaus\_BureauDetails.g.cshtml.cs
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.RazorTargetAssemblyInfo.cache
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.RazorTargetAssemblyInfo.cs
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.Views.pdb
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.csproj.CopyComplete
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.dll
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.pdb
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Razor\Views\Bureaus\Error.g.cshtml.cs
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.deps.json
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.runtimeconfig.json
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.runtimeconfig.dev.json
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.dll
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.pdb
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.Views.dll
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.Views.pdb
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.Business.dll
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.DataAccess.dll
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.Model.dll
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.Business.pdb
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.Model.pdb
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\bin\Debug\netcoreapp2.1\Evaluatie_2.DataAccess.pdb
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.csprojAssemblyReference.cache
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.csproj.CoreCompileInputs.cache
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.RazorAssemblyInfo.cache
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.RazorAssemblyInfo.cs
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.AssemblyInfoInputs.cache
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.AssemblyInfo.cs
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.TagHelpers.input.cache
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.TagHelpers.output.cache
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.RazorCoreGenerate.cache
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Razor\Views\Bureaus\Error.g.cshtml.cs
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Razor\Views\Bureaus\Index.g.cshtml.cs
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Razor\Views\Bureaus\Toevoegen.g.cshtml.cs
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Razor\Views\Bureaus\Wijzigen.g.cshtml.cs
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Razor\Views\Bureaus\_BureauDetails.g.cshtml.cs
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.RazorTargetAssemblyInfo.cache
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.RazorTargetAssemblyInfo.cs
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.Views.pdb
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.csproj.CopyComplete
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.dll
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Taak2\obj\Debug\netcoreapp2.1\Evaluatie_2.pdb

@@ -1,0 +1,28 @@
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\bin\Debug\netstandard2.0\Evaluatie_2.Model.dll
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\obj\Debug\netstandard2.0\Evaluatie_2.Business.csprojAssemblyReference.cache
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\obj\Debug\netstandard2.0\Evaluatie_2.Business.csproj.CoreCompileInputs.cache
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\obj\Debug\netstandard2.0\Evaluatie_2.Business.AssemblyInfoInputs.cache
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\obj\Debug\netstandard2.0\Evaluatie_2.Business.AssemblyInfo.cs
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\bin\Debug\netstandard2.0\Evaluatie_2.Business.deps.json
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\bin\Debug\netstandard2.0\Evaluatie_2.Business.dll
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\bin\Debug\netstandard2.0\Evaluatie_2.Business.pdb
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\bin\Debug\netstandard2.0\Evaluatie_2.DataAccess.dll
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\bin\Debug\netstandard2.0\Evaluatie_2.DataAccess.pdb
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\bin\Debug\netstandard2.0\Evaluatie_2.Model.pdb
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\obj\Debug\netstandard2.0\Evaluatie_2.Business.csproj.CopyComplete
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\obj\Debug\netstandard2.0\Evaluatie_2.Business.dll
+C:\Users\manny\Documents\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\obj\Debug\netstandard2.0\Evaluatie_2.Business.pdb
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\bin\Debug\netstandard2.0\Evaluatie_2.Business.deps.json
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\bin\Debug\netstandard2.0\Evaluatie_2.Business.dll
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\bin\Debug\netstandard2.0\Evaluatie_2.Business.pdb
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\bin\Debug\netstandard2.0\Evaluatie_2.DataAccess.dll
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\bin\Debug\netstandard2.0\Evaluatie_2.Model.dll
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\bin\Debug\netstandard2.0\Evaluatie_2.DataAccess.pdb
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\bin\Debug\netstandard2.0\Evaluatie_2.Model.pdb
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\obj\Debug\netstandard2.0\Evaluatie_2.Business.csprojAssemblyReference.cache
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\obj\Debug\netstandard2.0\Evaluatie_2.Business.csproj.CoreCompileInputs.cache
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\obj\Debug\netstandard2.0\Evaluatie_2.Business.AssemblyInfoInputs.cache
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\obj\Debug\netstandard2.0\Evaluatie_2.Business.AssemblyInfo.cs
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\obj\Debug\netstandard2.0\Evaluatie_2.Business.csproj.CopyComplete
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\obj\Debug\netstandard2.0\Evaluatie_2.Business.dll
+C:\Users\manny\Documents\Studies\ICT - CVO\Programeren III (Johnny)\Taken\Taak 2 ASP.NET MVC\PermanenteEvaluatie2_Manny_58420\Evaluatie_2.Business\obj\Debug\netstandard2.0\Evaluatie_2.Business.pdb

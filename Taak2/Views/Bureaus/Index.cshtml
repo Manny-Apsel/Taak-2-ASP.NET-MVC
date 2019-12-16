@@ -1,0 +1,41 @@
+﻿@model Taak2.Models.BureausLijstViewModel
+@{
+    ViewData["Title"] = "Lijst van bureaus";
+    Layout = @"~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lijst van bureaus</h2>
+
+<p>
+    <a asp-action="Toevoegen">Product Toevoegen</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <td>Identificatie</td>
+            <td>Omschrijving</td>
+            <td>Gereserveerd</td>
+            <td>QR Code</td>
+            <td>Type</td>
+            <td>Locatie</td>
+            <td></td>@*bewerken en verwijderen knop*@
+            <td></td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var bureau in Model.Bureaus)
+        {
+            <tr>
+                <td>@bureau.Identificatie</td>
+                <td>@bureau.Omschrijving</td>
+                <td>@bureau.Gereserveerd</td>
+                <td><img src="@bureau.QrCode" alt="" style="height:100px; width:100px;" /></td>
+                <td>@bureau.Type.Omschrijving</td>
+                <td>@bureau.Locatie.Omschrijving</td>
+                <td><a asp-action="Wijzigen" asp-route-nummer="@bureau.Code">Wijzigen</a></td>
+                <td><a asp-action="Verwijderen" asp-route-nummer="@bureau.Code">Verwijderen</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

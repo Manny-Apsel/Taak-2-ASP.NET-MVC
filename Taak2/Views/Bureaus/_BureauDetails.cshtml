@@ -1,0 +1,78 @@
+﻿@model Taak2.Models.BureauDetailsViewModel
+
+<form method="post">
+    @if (Model.Foutboodschap.Count > 0)
+    {
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="alert alert-danger" role="alert">
+            <h4>Probleem</h4>
+            <hr />
+            @foreach (var boodschap in Model.Foutboodschap)
+            {
+                <p>@boodschap</p>
+            }
+        </div>    
+    </div>
+    }
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <label asp-for="Omschrijving" class="control-label">Omschrijving</label>
+                <input asp-for="Omschrijving" class="form-control"></input>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <label asp-for="Identificatie" class="control-label">Identificatie</label>
+                <input asp-for="Identificatie" class="form-control" />
+            </div>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <label asp-for="Gereserveerd" class="control-label">Gereserveerd</label>
+                <input type="checkbox" name="Gereserveerd" />
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <label asp-for="GeselecteerdBureauType" class="control-label">Type</label>
+                <select asp-for="GeselecteerdBureauType" class="form-control" 
+                        asp-items="@(new SelectList(Model.Type, "Code", "Omschrijving"))">
+                    <option>Selecteer een bureautype uit de lijst</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <label asp-for="GeselecteerdBureauLocatie" class="control-label">Locatie</label>
+                <select asp-for="GeselecteerdBureauLocatie" class="form-control" 
+                        asp-items="@(new SelectList(Model.Locatie, "Code", "Omschrijving"))">
+                    <option>Selecteer een bureaulocatie uit de lijst</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <input type="submit" value="Opslaan" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+</form>
+

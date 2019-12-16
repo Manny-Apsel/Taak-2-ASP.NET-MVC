@@ -1,0 +1,23 @@
+﻿@model Evaluatie_2.Models.ErrorViewModel
+@{
+    ViewData["Title"] = "Error";
+    Layout = @"~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Probleem. Contacteer administrator.</h1>
+
+@* Probeer via try catch precieze probleem op te vangen. *@
+@if (Model.Foutboodschap.Count > 0)
+{
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="alert alert-danger" role="alert">
+        <h4>Probleem</h4>
+        <hr />
+        @foreach (var boodschap in Model.Foutboodschap)
+        {
+            <p>@boodschap</p>
+        }
+    </div>
+</div>
+}
